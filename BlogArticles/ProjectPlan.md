@@ -25,4 +25,4 @@
 - [ ] Purchase Welding Mask
 
 
-[Return to Main Index](/Readme.md)
+[Return to Main Index](/)
