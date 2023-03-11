@@ -1,7 +1,10 @@
-# RX8EV
-RX8 EV Conversion
+This repo documents my investigation into the viability of converting a 2008 Mazda RX8 into an EV.
 
 
+
+
+
+# RX8EV Project Plan
 ## Preparation:
 
 ### Garage:
