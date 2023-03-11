@@ -20,7 +20,7 @@ RX8 EV Conversion
 
 ## Viability Analysis:
 
-### Teslla LDU Motor Mount:
+### Tesla LDU Motor Mount:
 - [ ] 3dPrint Scale Model Tesla LDU ($100)
 - [ ] Purchase Spare RX8 Rear SubFrame ($150)
 - [ ] Purchase Lincoln 180 Welder
