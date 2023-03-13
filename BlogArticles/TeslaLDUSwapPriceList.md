@@ -28,6 +28,11 @@
 - Positive
 - Precharge
 
+## HV Fuses
+- X3
+
+## Charging System
+
 ## Charge Port
 - J1772 Connector
 
