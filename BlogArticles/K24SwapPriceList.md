@@ -41,10 +41,14 @@
  - included in haltech kit
 
 
-## Turbo Manifold & Exhaust
+## Turbo Manifold & Downpipe
  - $1000 
 
+## Exhaust
+- $1000
 
+## Wastegate
+ - $600
 
 
 # References:
