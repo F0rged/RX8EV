@@ -50,6 +50,13 @@
 ## Wastegate
  - $600
 
+## Radiator
+
+
+
 
 # References:
 - [RX8 K24Swap](https://www.youtube.com/watch?v=t2aN2IbG4fk)
+
+
+$16,290
