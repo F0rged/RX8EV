@@ -1,4 +1,4 @@
-#  K24A2 Swap
+#  K24A2 Turbo Swap (400hp)
 
 ## Engine
 - K24A2 (Used, no ECU) - $2500
