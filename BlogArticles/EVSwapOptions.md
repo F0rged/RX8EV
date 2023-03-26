@@ -39,7 +39,7 @@
 - DC/DC: Leaf
 - Charge Port: Leaf (Chademo)
 - Other:
-  - Salvage Nissan Leaf e+ (2019-2021)
+  - Salvage Nissan Leaf e+/SV Plus/S Plus/SL Plus (2019-2021)
 
 
 
