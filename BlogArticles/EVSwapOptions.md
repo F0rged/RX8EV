@@ -25,7 +25,7 @@
 - DC/DC: Leaf
 - Charge Port: Leaf (Chademo)
 - Other:
-  - Salvage Nissan Leaf (2017-2018)
+  - Salvage Nissan Leaf (ZE1: 2017-2018)
 
 
 ## 100% Nissan Leaf - 160kw/62kwh/Chademo
@@ -39,16 +39,21 @@
 - DC/DC: Leaf
 - Charge Port: Leaf (Chademo)
 - Other:
-  - Salvage Nissan Leaf e+/SV Plus/S Plus/SL Plus (2019-2021)
+  - Salvage Nissan Leaf e+/SV Plus/S Plus/SL Plus (ZE1 Plus: 2019-2021)
 
-
-
-
-
-
-
-## Tesla S/X Batteries w/OrionBMS - TBD/50kwh/Chademo
-
+## Tesla S/X Batteries w/Orion2 BMS - TBD/41kwh/Chademo
+- Motor: Tesla LDU
+- Inverter: Tesla LDU
+- Batteries: Tesla S/X (x8)
+- BMS: Orion 2 BMS (Supports Chademo)
+- Charger: Elcon KH-J-H132-32 ??? (NOt sure if this supports Chademo)
+- VCU: [ResolveEV](https://www.resolve-ev.com/shop/p/resolve-controller) - $1500 CAD
+- PreCharge: Leaf
+- DC/DC: Leaf
+- Charge Port: Leaf (Chademo)
+- Other:
+  - Salvage Nissan Leaf e+/SV Plus/S Plus/SL Plus (ZE1 Plus: 2019-2021)
+  - Orion 2 BMS Boards (x8)
 
 
 
@@ -61,9 +66,13 @@
 
 # Battery Considerations
 
-## Nissan Leaf Batteries
+## Nissan Leaf
 - Most Used leaf batteries have low "SOH" (State of Health) wherein a full 12 bars equates to 85% capacity or more.
 - Leaf batteries are small, easiest to distribute, and dont require cooling.
 
-## Tesla Batteries
+## Tesla S/X
 - Tesla S/X Batteries have a longer lifespan and more kw/h per kg.
+
+## Tesla 3
+- Can only be used with tesla model 3 motor plus paying a company $2k+ USD to perform magic.
+- Very long and couldnt fit more than 1 (if that) in an rx8
