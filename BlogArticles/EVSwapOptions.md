@@ -2,24 +2,45 @@
 
 ## 100% Nissan Leaf - 80kw/25kwh/Chademo
 - Motor: Leaf (110kw)
-- Inverter: Leaf
+- Inverter: Leaf (110kw)
+- Batteries: Leaf (25kwh)
 - BMS: Leaf
 - Charger: Leaf
-- VCU: ResolveEV
+- VCU: [ResolveEV](https://www.resolve-ev.com/shop/p/resolve-controller) - $1500 CAD
 - PreCharge: Leaf
 - DC/DC: Leaf
 - Charge Port: Leaf (Chademo)
 - Other:
-  - Salvage Nissan Leaf (2014-2017)
+  - Salvage Nissan Leaf (2014-2016)
 
 
-## 100% Nissan Leaf - 160kw/60kwh/Chademo
+## 100% Nissan Leaf - 110kw/40kwh/Chademo
+- Motor: Leaf (110kw)
+- Inverter: Leaf (110kw)
+- Batteries: Leaf (40kwh)
 - BMS: Leaf
 - Charger: Leaf
-- VCU: ResolveEV
+- VCU: [ResolveEV](https://www.resolve-ev.com/shop/p/resolve-controller) - $1500 CAD
 - PreCharge: Leaf
-- DCDC: Leaf
+- DC/DC: Leaf
 - Charge Port: Leaf (Chademo)
+- Other:
+  - Salvage Nissan Leaf (2017-2018)
+
+
+## 100% Nissan Leaf - 160kw/62kwh/Chademo
+- Motor: Leaf (160kw)
+- Inverter: Leaf (160kw)
+- Batteries: Leaf (62kwh)
+- BMS: Leaf
+- Charger: Leaf
+- VCU: [ResolveEV](https://www.resolve-ev.com/shop/p/resolve-controller) - $1500 CAD
+- PreCharge: Leaf
+- DC/DC: Leaf
+- Charge Port: Leaf (Chademo)
+- Other:
+  - Salvage Nissan Leaf e+ (2019-2021)
+
 
 
 
