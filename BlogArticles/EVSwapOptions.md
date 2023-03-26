@@ -41,13 +41,13 @@
 - Other:
   - Salvage Nissan Leaf e+/SV Plus/S Plus/SL Plus (ZE1 Plus: 2019-2021)
 
-## Tesla S/X Batteries w/Orion2 BMS - TBD/41kwh/Chademo
+## Tesla S/X Batteries w/Orion2 BMS - 400kw/41kwh/Chademo
 - Motor: Tesla LDU
 - Inverter: Tesla LDU
 - Batteries: Tesla S/X (x8)
-- BMS: Orion 2 BMS (Supports Chademo)
-- Charger: Elcon KH-J-H132-32 ??? (NOt sure if this supports Chademo)
-- VCU: [ResolveEV](https://www.resolve-ev.com/shop/p/resolve-controller) - $1500 CAD
+- BMS: Orion 2 BMS (Supports Chademo) + BMS boards (x8)
+- Charger: Elcon KH-J-H132-32 ??? (Not sure if this supports Chademo)
+- VCU: OpenInverter
 - PreCharge: Leaf
 - DC/DC: Leaf
 - Charge Port: Leaf (Chademo)
@@ -57,11 +57,18 @@
 
 
 
-## Tesla S/X Batteries w/VeroBMS - TBD/50kwh/no fast charging
+## Tesla S/X Batteries w/VeroBMS - 400kw/50kwh/no fast charging
+- Motor: Tesla LDU
+- Inverter: Tesla LDU
+- Batteries: Tesla S/X (x8)
 - BMS: VeroBMS/SimpBMS + simpcharge
 - Charger: Elcon KH-J-H132-32
-- VCU: Open 
-
+- VCU: OpenInverter
+- PreCharge: TBD
+- DC/DC: TBD
+- Charge Port: J1772
+- Other:  
+  
 
 
 # Battery Considerations
