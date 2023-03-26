@@ -56,3 +56,14 @@
 - BMS: VeroBMS/SimpBMS + simpcharge
 - Charger: Elcon KH-J-H132-32
 - VCU: Open 
+
+
+
+# Battery Considerations
+
+## Nissan Leaf Batteries
+- Most Used leaf batteries have low "SOH" (State of Health) wherein a full 12 bars equates to 85% capacity or more.
+- Leaf batteries are small, easiest to distribute, and dont require cooling.
+
+## Tesla Batteries
+- Tesla S/X Batteries have a longer lifespan and more kw/h per kg.
