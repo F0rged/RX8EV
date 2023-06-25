@@ -25,24 +25,15 @@
 
 ## Turbo
 - Pulsar GT35R $1000
+- Intercooler $1000
+- Manifold and Downpipe $1000
 
-## EMS
+## Electroncis
 - [Haltech Elite 1500](https://www.tunedbyshawn.com/products/haltech-mazda-rx8-k20-k24-swap-rx8) - $3000
   - Plug and play harness
-  - NTK Wideband (HT-159978)
+  - NTK Wideband O2 (HT-159978)
   - [Overview](https://www.facebook.com/watch/?v=387238449860132)
-  
 
-## Intercooler
- - $1000
-
-
-## Wideband O2
- - included in haltech kit
-
-
-## Turbo Manifold & Downpipe
- - $1000 
 
 ## Exhaust
 - $1000
@@ -51,9 +42,7 @@
  - $600
 
 ## Radiator
-
-
-
+ - ??
 
 # References:
 - [RX8 K24Swap](https://www.youtube.com/watch?v=t2aN2IbG4fk)
