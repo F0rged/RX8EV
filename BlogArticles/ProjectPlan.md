@@ -2,7 +2,7 @@
 # RX8EV Project Plan
 ## Preparation:
 
-## Garage:
+### Garage:
 - [x] Expand Shed
 - [x] Refactor Shed
 - [x] Move Trailor to Shed
@@ -16,14 +16,24 @@
     - [ ]   Buy Winch
 
 
-## Acuire Tools etc:
+### Acuire Tools etc:
 - [ ] 3dPrint Scale Model Tesla LDU ($100)
 - [ ] Purchase Spare RX8 Rear SubFrame ($150)
 - [ ] Purchase Lincoln 180 Welder
 - [ ] Purchase Welding Mask
 
+
+
+
+
 ## Motor (Tesla Sport LDU):
 - [X] Buy Tesla Sport LDU (unknown condition) - Part# 1002633-01-H (2012-2016 Tesla Model S)
+
+## Tesla LDU Resources:
+- [OpenInverter Forum - Tesla LDU Support Thread](https://openinverter.org/forum/viewtopic.php?t=76)
+- [OpenInverter Forum - Tesla LDU Parameters](https://openinverter.org/forum/viewtopic.php?t=3751)
+- [OpenInverter Forum - Parameters Wiki](https://openinverter.org/wiki/Parameters)
+
 
 ### Tesla LDU Bench Test:
 - [ ] Damien Step #1 (Basic Electrical Checks with MultiMeter)
@@ -39,6 +49,7 @@
 - [ ] Damien Step #4 (Solder OI Board before soldering)
         - [Damien Maguire Video](https://www.youtube.com/watch?v=ZvlzGm709zg)
 - [ ] Program Board .... ?Are Parameters already set for LDU ?
+- [ ] 
       
 - [ ] Damien Step #5 (Install OI Board into LDU)
         - [Damien Maguire Video](https://www.youtube.com/watch?v=ZvlzGm709zg)
