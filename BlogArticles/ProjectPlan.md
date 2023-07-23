@@ -45,7 +45,7 @@
 
 ### OI Board Test:
 - [ ] Order Open Inverter LDU Board
-        - [Tesla™ LDU drop-in logic board (community edition)](https://openinverter.org/shop/index.php?route=product/product&product_id=64]
+        - [Tesla™ LDU drop-in logic board (community edition)](https://openinverter.org/shop/index.php?route=product/product&product_id=64)
         - (Already programmed)
 - [ ] Damien Step #2 (Test OI Board before soldering)
         - [Damien Maguire Video](https://www.youtube.com/watch?v=ZvlzGm709zg)
