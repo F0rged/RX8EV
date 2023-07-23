@@ -33,6 +33,8 @@
 - [OpenInverter Forum - Tesla LDU Support Thread](https://openinverter.org/forum/viewtopic.php?t=76)
 - [OpenInverter Forum - Tesla LDU Parameters](https://openinverter.org/forum/viewtopic.php?t=3751)
 - [OpenInverter Forum - Parameters Wiki](https://openinverter.org/wiki/Parameters)
+- [Begginers Guide to spinning LDU](https://www.youtube.com/watch?v=odFYeZ2goPs)
+- 
 
 
 ### Tesla LDU Bench Test:
