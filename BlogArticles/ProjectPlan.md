@@ -51,9 +51,6 @@
         - [Damien Maguire Video](https://www.youtube.com/watch?v=ZvlzGm709zg)
 - [ ] Damien Step #4 (Solder OI Board before soldering)
         - [Damien Maguire Video](https://www.youtube.com/watch?v=ZvlzGm709zg)
-- [ ] Program Board .... ?Are Parameters already set for LDU ?
-- [ ] 
-      
 - [ ] Damien Step #5 (Install OI Board into LDU)
         - [Damien Maguire Video](https://www.youtube.com/watch?v=ZvlzGm709zg)
 - [ ] Damien Step #6 (12V test of DU with OI Board)
